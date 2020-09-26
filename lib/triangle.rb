@@ -11,6 +11,7 @@ class Triangle
     :equilateral 
     :isosceled
     :scalene
+  end 
     
 class TraingleError < StandardError
 end 
