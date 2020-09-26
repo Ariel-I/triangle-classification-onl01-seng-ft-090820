@@ -7,7 +7,7 @@ class Triangle
   end 
   
   def kind 
-    
+    if (side_1)
     :equilateral 
     :isosceled
     :scalene
