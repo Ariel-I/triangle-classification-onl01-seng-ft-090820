@@ -8,6 +8,9 @@ class Triangle
   
   def kind 
     
+    :equilateral 
+    :isosceled
+    :scalene
     
 class TraingleError < StandardError
 end 
